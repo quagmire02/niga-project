@@ -50,6 +50,10 @@ $_SESSION;
             <button><a href="/login/booker.php?expert=Emily%20Johnson">Book an appointment</a></button>
         </section>
     </section>
+	<!-- Review Button -->
+	<div style="text-align: center; margin-top: 20px;">
+        <button><a href="reviews.php">Review</a></button>
+    </div>
 </body>
 </html>
 
